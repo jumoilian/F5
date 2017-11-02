@@ -23,6 +23,7 @@ public class FreakingHell {
             System.out.println("Fuck you +"+ i+ "!!");
             i++;
         }
+        //Niggah
     }
     
 }
