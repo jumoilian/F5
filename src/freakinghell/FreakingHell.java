@@ -18,11 +18,12 @@ public class FreakingHell {
 //        for(int i=0; i<100; i++){
 //        System.out.println("Fuck you +"+ i+ "!!");
 //        }
-        int i=0;
+        int i=-1;
         while(i<100){
             System.out.println("Fuck you +"+ i+ "!!");
             i++;
         }
+        //Niggah
     }
     
 }
